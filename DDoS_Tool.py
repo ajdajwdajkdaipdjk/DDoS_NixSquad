@@ -17,7 +17,6 @@ from time import sleep
 from os import system
 from sys import stdout
 from scapy.all import *
-from colorama import *
 from random import randint
 
 urllib3.disable_warnings()
